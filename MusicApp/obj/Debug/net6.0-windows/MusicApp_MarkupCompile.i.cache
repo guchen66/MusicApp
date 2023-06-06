@@ -1,0 +1,20 @@
+﻿MusicApp
+1.0.0.0
+
+winexe
+C#
+.cs
+E:\CSharp Project\UIDesign\2023.04\MusicApp\MusicApp\obj\Debug\net6.0-windows\
+MusicApp
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+E:\CSharp Project\UIDesign\2023.04\MusicApp\MusicApp\App.xaml
+111268116226
+
+261526982955
+2271597285897
+Common\MusicStyle\MyIconStyle.xaml;Shell\Views\MusicView.xaml;Shell\Views\MyCollectView.xaml;Shell\Views\SelectView.xaml;Shell\Views\SetView.xaml;Views\FooterView.xaml;Views\HeaderView.xaml;Views\HomeView.xaml;Views\LoginView.xaml;Views\MainView.xaml;Views\TestView.xaml;
+
+True
+

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QKL5Uz7PFyp+m62Ydy7EFvZVMfYhTibbQN27lAz3ipTUWlJEr8UFyez+mHzOvM1Ep4QzRjeWzY/EAdGZHQNBNw==",
+  "success": true,
+  "projectFilePath": "E:\\CSharp Project\\UIDesign\\2023.04\\MusicApp\\Music.Utils\\Music.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liuxin\\.nuget\\packages\\materialdesign.icons\\1.1.0\\materialdesign.icons.1.1.0.nupkg.sha512",
+    "C:\\Users\\liuxin\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\liuxin\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\liuxin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\liuxin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

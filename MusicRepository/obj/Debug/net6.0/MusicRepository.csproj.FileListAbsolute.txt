@@ -1,0 +1,12 @@
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\bin\Debug\net6.0\MusicRepository.deps.json
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\bin\Debug\net6.0\MusicRepository.dll
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\bin\Debug\net6.0\MusicRepository.pdb
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\MusicRepository.csproj.AssemblyReference.cache
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\MusicRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\MusicRepository.AssemblyInfoInputs.cache
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\MusicRepository.AssemblyInfo.cs
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\MusicRepository.csproj.CoreCompileInputs.cache
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\MusicRepository.dll
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\refint\MusicRepository.dll
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\MusicRepository.pdb
+E:\CSharp Project\ApplyClient\MusicApp\MusicRepository\obj\Debug\net6.0\ref\MusicRepository.dll

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Shell\Views\MusicView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Shell\Views\MyCollectView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Shell\Views\SelectView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Shell\Views\SetView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\FooterView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HeaderView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\HomeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\TestView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Common\MusicStyle\MyIconStyle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Shell\Views\MusicView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Shell\Views\MyCollectView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Shell\Views\SelectView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Shell\Views\SetView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\FooterView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HeaderView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\HomeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TestView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
